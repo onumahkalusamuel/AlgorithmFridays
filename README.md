@@ -6,4 +6,4 @@ Algorithm Fridays is a weekly challenge by Twitter user [@meekg33k](https://twit
 Full details and instructions on participation can be found [here](https://meekg33k.dev/introducing-algorithm-fridays)
 
 ## Rewards
-There is a $20 reward for the chosen (best performing) result. The prize, doesn't make it a competition of sorts; rather it's a way
+There is a $20 reward for the chosen (best performing) result. The prize, **doesn't make it a competition of sorts;** rather it's a way of appreciating and motivating programmers.
